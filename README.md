@@ -1,5 +1,6 @@
-# google-calendar-auto-color
-Automatic color-coding system for Google Calendar 🗓️
+# Google Calendar Auto-Color 
+
+Color-coding automation for Google Calendar 🗓️ via Google Apps Script
 
 This is a script for an **automatic color-coding system** where:
 
