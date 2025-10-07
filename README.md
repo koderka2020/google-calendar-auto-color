@@ -50,7 +50,7 @@ You can change colors by editing this line in your script:
 ```
 CalendarApp.EventColor.BLUE
 ```
-# 🎨 Possible Options
+### 🎨 Possible Options
 `PINK`, `PALE_BLUE`, `MAUVE`, `PALE_GREEN`, `PALE_ORANGE`, `PALE_RED`, `YELLOW`, `CYAN`, `GRAY`, `BLUE`, `GREEN`, `RED`
 
 After editing, **run the function manually** to apply the changes.
@@ -70,7 +70,7 @@ After editing, **run the function manually** to apply the changes.
 
 ---
 
-# 🧍‍♀️ By default (your current setup)
+### 🧍‍♀️ By default (your current setup)
 
 - The script runs **under your Google account only**
 - It can **only access your calendar(s)** — not anyone else’s
@@ -79,7 +79,7 @@ After editing, **run the function manually** to apply the changes.
 
 ---
 
-# 👥 If you share it (optional)
+### 👥 If you share it (optional)
 
 If you ever click **Share → Add people**, you can give others access:
 
